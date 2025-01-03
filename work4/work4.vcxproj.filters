@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="work4.cpp">
+    <ClCompile Include="work4additional.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
